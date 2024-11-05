@@ -4,7 +4,9 @@ I have work experience in Grupo HDI, the insurence industry. My job, involves Se
 Student on FIAP (Faculdade de Informática e Administração Paulista) in São Paulo, Brasil on the Software Analysis and Development. 👨‍💻
 
 My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/
+My Youtube is: https://www.youtube.com/DevAdonayRocha
 
+<img href="https://lh3.googleusercontent.com/proxy/kol8_SzdaQqQDkdB3Zk4lW0AW_5CbEpzh9Mi99h2XWTrq0Xol2ggZjRFN0l_h7BjSM4QYYrl9uu7aHjjgkPR6A1GcV0k0jVzbD0GaHcYQhH-CA7Nw7ltlAdp8NO99oBrdg">
 
 <!--
 **AdonayRocha/AdonayRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
