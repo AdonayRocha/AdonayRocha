@@ -1,5 +1,7 @@
-## Hi there 👋
-## My LinkedIn is: Adonay](https://www.linkedin.com/in/adonayrodriguesrocha/
+## Hi friend 👋
+Let's connect? I a'm Adonay Rocha developer. I know Python, Java, TypeScript, JavaScript, React.js, Next.js and more languages. <br>
+## My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/
+
 
 <!--
 **AdonayRocha/AdonayRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
