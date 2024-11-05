@@ -6,5 +6,5 @@ Student on FIAP (Faculdade de Informática e Administração Paulista) in São P
 My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/ <br>
 My Youtube is: https://www.youtube.com/DevAdonayRocha
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![The Cat.](https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif)
 
