@@ -8,6 +8,6 @@ My Youtube is: https://www.youtube.com/DevAdonayRocha
 
 ![The Cat.](https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif)
 
-My Archives[^2].
+My Archives[^1].
 
 [^1]: [Curriculum] (gooogle.com).
