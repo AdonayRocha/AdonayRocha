@@ -3,7 +3,7 @@ Let's connect? I a'm Adonay Rocha, developer. I know Python, Java, TypeScript, J
 I have work experience in Grupo HDI, the insurence industry. My job, involves ServiceNow on the ClientScript, WorkFlow, Flow Designer, Performance Analytics, Service Catalog, UI Polices, Users, ACL, Roles. Means of work ITSM, ITBM, SCRUM. 🤵‍♂️  <br>
 Student on FIAP (Faculdade de Informática e Administração Paulista) in São Paulo, Brasil on the Software Analysis and Development. 👨‍💻
 
-My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/
+My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/ <br>
 My Youtube is: https://www.youtube.com/DevAdonayRocha
 
 <img href="https://lh3.googleusercontent.com/proxy/kol8_SzdaQqQDkdB3Zk4lW0AW_5CbEpzh9Mi99h2XWTrq0Xol2ggZjRFN0l_h7BjSM4QYYrl9uu7aHjjgkPR6A1GcV0k0jVzbD0GaHcYQhH-CA7Nw7ltlAdp8NO99oBrdg">
