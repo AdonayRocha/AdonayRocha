@@ -1,16 +1,15 @@
-Let's connect? I a'm Adonay Rocha, developer. I know Python, Java, TypeScript, JavaScript, React.js, Next.js and more languages. I speak english and portuguese. 🗽 <br>
-I have work experience in Grupo HDI, the insurence industry. My job, involves ServiceNow on the ClientScript, WorkFlow, Flow Designer, Performance Analytics, Service Catalog, UI Polices, Users, ACL, Roles. Means of work ITSM, ITBM, SCRUM. 🤵‍♂️  <br>
-Student on FIAP (Faculdade de Informática e Administração Paulista) in São Paulo, Brasil on the Software Analysis and Development. 👨‍💻
+## Hi friend 👋 <br>
+Let's connect? I am Adonay Rocha, a developer skilled in Python, Java, TypeScript, JavaScript, React.js, Next.js, and more. I am fluent in both English and Portuguese. 🗽 <br>
+I have work experience in Grupo HDI within the insurance industry. My role includes using ServiceNow for ClientScript, Workflow, Flow Designer, Performance Analytics, Service Catalog, UI Policies, Users, ACL, and Roles. I work with ITSM, ITBM, and SCRUM. 🤵‍♂️  <br>
+Currently, I am a student at FIAP (Faculdade de Informática e Administração Paulista) in São Paulo, Brazil, pursuing a degree in Software Analysis and Development. 👨‍💻
 
-My LinkedIn is: https://www.linkedin.com/in/adonayrodriguesrocha/ <br>
-My Youtube is: https://www.youtube.com/DevAdonayRocha
-
+My LinkedIn: [linkedin.com/in/adonayrodriguesrocha](https://www.linkedin.com/in/adonayrodriguesrocha/) <br>
+My YouTube: [youtube.com/DevAdonayRocha](https://www.youtube.com/DevAdonayRocha)
 
 <img src="https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif" alt="The Cat" width="100">
-<img src="[https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/python-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--application-programming-software-computer-development-web-technologies-pack-logos-animations-9717098.mp4)" alt="The Cat" width="100">
 
 <!-- Comentários -->
 <br>
 Files[^1].
 
-[^1]: [Curriculum] (gooogle.com).
+[^1]: [Curriculum](https://google.com)
