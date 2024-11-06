@@ -7,6 +7,7 @@ My Youtube is: https://www.youtube.com/DevAdonayRocha
 
 
 <img src="https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif" alt="The Cat" width="100">
+<img src="[https://media.tenor.com/Q4_TL0aSsJUAAAAi/%E8%B2%93%E5%92%AA-%E7%BF%BB%E6%BB%BE.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/python-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--application-programming-software-computer-development-web-technologies-pack-logos-animations-9717098.mp4)" alt="The Cat" width="100">
 
 <!-- Comentários -->
 <br>
