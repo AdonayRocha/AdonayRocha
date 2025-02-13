@@ -17,14 +17,12 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **Certifications:**
   - Scrum Fundamentals Certified (SFC)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
 ## 💼 Professional Experience
 - **HDI Seguros** - ServiceNow Developer
   - Developed and customized ServiceNow applications to streamline IT service management processes.
   - Collaborated with cross-functional teams to implement ITIL best practices.
   - Enhanced system performance and user experience through innovative solutions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line">
 
 ## 🛠️ Technical Proficiencies
 I have been honing my skills in **Java, SQL, Python, React.js, Node.js, TypeScript, and ServiceNow**, with a strong focus on **Information Technology Service Management (ITSM)**. My goal is to leverage these skills to build scalable, efficient, and user-friendly applications.
