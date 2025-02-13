@@ -22,11 +22,6 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
   - Collaborated with cross-functional teams to implement ITIL best practices.
   - Enhanced system performance and user experience through innovative solutions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
-## 🌍 About Me
-- **Age:** 20 years
-- **Location:** São Paulo, Brazil
-- **Interests:** Technology, Software Development, Data Science, and Continuous Learning <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Image-Background">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line">
