@@ -30,3 +30,6 @@ I have been honing my skills in **Java, SQL, Python, React.js, Node.js, TypeScri
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonayrodriguesrocha)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/DevAdonayRocha)
+
+<img src="https://preview.redd.it/cg748pkwmukb1.gif?width=1024&format=mp4&s=893482dcc39640ee10fbbd36ac60bf39750d050e">
+
