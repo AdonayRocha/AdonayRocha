@@ -1,7 +1,6 @@
 # Hi friend 👋 <br>
 Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in modern technologies and bilingual proficiency (EN/PT). Passionate about innovation and problem-solving, I thrive in dynamic environments where I can apply my skills to create impactful solutions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
 ## 🚀 Hard Skills
 - **Programming Languages:** Python, Java, JavaScript, C++
 - **Web Development:** Node.js, React.js, TypeScript, React-Router-Dom, Styled Components
@@ -29,7 +28,6 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 ## 🛠️ Technical Proficiencies
 I have been honing my skills in **Java, SQL, Python, React.js, Node.js, TypeScript, and ServiceNow**, with a strong focus on **Information Technology Service Management (ITSM)**. My goal is to leverage these skills to build scalable, efficient, and user-friendly applications.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonayrodriguesrocha)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/DevAdonayRocha)
