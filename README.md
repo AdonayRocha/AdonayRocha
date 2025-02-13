@@ -1,6 +1,10 @@
 # Hi friend 👋 <br>
 Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in modern technologies and bilingual proficiency (EN/PT). Passionate about innovation and problem-solving, I thrive in dynamic environments where I can apply my skills to create impactful solutions.
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Image-Background"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
+
+
 ## 🚀 Hard Skills
 - **Programming Languages:** Python, Java, JavaScript, C++
 - **Web Development:** Node.js, React.js, TypeScript, React-Router-Dom, Styled Components
@@ -8,7 +12,6 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **DevOps & IT Management:** DevOps, SCRUM, ITIL, Information Technology Service Management (ITSM)
 - **Cloud & Platforms:** ServiceNow, Jira
   
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line"> <br>
 ## 🎓 Education & Certifications
 - **FIAP** - Bachelor's Degree in Information Technology (In Progress)
 - **Certifications:**
@@ -21,8 +24,6 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
   - Collaborated with cross-functional teams to implement ITIL best practices.
   - Enhanced system performance and user experience through innovative solutions.
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Image-Background">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line">
 
 ## 🛠️ Technical Proficiencies
