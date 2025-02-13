@@ -4,7 +4,7 @@ I have work experience in Grupo HDI within the insurance industry. My role inclu
 Currently, I am a student at FIAP (Faculdade de Informática e Administração Paulista) in São Paulo, Brazil, pursuing a degree in Software Analysis and Development. 👨‍💻
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line">
-##Contact##
+##Contact## <br>
 My LinkedIn: [linkedin.com/in/adonayrodriguesrocha](https://www.linkedin.com/in/adonayrodriguesrocha/) <br>
 My YouTube: [youtube.com/DevAdonayRocha](https://www.youtube.com/DevAdonayRocha)
 
