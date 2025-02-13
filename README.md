@@ -23,7 +23,6 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-09d46dc3-0a78-4a1a-8e08-2f030e8f87d9.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br>
 ## 📚 Education & Experience
 - **Software Development Student** at FIAP (2023 - Present)
