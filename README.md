@@ -12,6 +12,7 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
   
 ## 🎓 Education & Certifications
 - **FIAP** - Bachelor's Degree in Information Technology (In Progress)
+- **IFSP** - Computer Technician for Internet
 - **Certifications:**
   - Scrum Fundamentals Certified (SFC)
 
