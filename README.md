@@ -15,6 +15,7 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **IFSP** - Computer Technician for Internet
 - **Certifications:**
   - Scrum Fundamentals Certified (SFC)
+  - ITIL® Foundation Certificate in IT Service Management
 
 ## 💼 Professional Experience
 - **HDI Seguros** - ServiceNow Developer
