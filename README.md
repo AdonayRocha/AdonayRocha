@@ -8,7 +8,7 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **Web Development:** Node.js, React.js, TypeScript, React-Router-Dom, Styled Components
 - **Data Visualization:** Seaborn, Matplotlib
 - **DevOps & IT Management:** DevOps, SCRUM, ITIL, Information Technology Service Management (ITSM)
-- **Cloud & Platforms:** ServiceNow, Jira
+- **Cloud & Platforms:** Oracle ERP, Oracle Fusion, ServiceNow, Jira
   
 ## 🎓 Education & Certifications
 - **FIAP** - Bachelor's Degree in Information Technology (In Progress)
