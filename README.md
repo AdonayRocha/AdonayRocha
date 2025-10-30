@@ -14,8 +14,10 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **FIAP** - Bachelor's Degree in Information Technology (In Progress)
 - **IFSP** - Computer Technician for Internet
 - **Certifications:**
-  - Scrum Fundamentals Certified (SFC)
+  - Oracle Infraestructure Cloud AI 
+  - Oracle Infraestructure Cloud
   - ITIL® Foundation Certificate in IT Service Management
+  - Scrum Fundamentals Certified (SFC)
 
 ## 💼 Professional Experience
 - **HDI Seguros** - ServiceNow Developer
