@@ -11,8 +11,8 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **Cloud & Platforms:** Oracle ERP, Oracle Fusion, ServiceNow, Jira
   
 ## 🎓 Education & Certifications
-- **FIAP** - Bachelor's Degree in Information Technology (In Progress)
-- **IFSP** - Computer Technician for Internet
+- **FIAP** - Bachelor's Degree in Information Technology - 2025
+- **IFSP** - Computer Technician for Internet - 2023
 - **Certifications:**
   - Oracle Infraestructure Cloud AI 
   - Oracle Infraestructure Cloud
