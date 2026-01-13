@@ -14,6 +14,7 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
 - **FIAP** - Bachelor's Degree in Information Technology - 2025
 - **IFSP** - Computer Technician for Internet - 2023
 - **Certifications:**
+  - Oracle AI Agent Studio 
   - Oracle Infraestructure Cloud AI 
   - Oracle Infraestructure Cloud
   - ITIL® Foundation Certificate in IT Service Management
