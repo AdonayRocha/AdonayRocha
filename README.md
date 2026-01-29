@@ -1,7 +1,7 @@
 # Hi friend 👋 <br>
 Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in modern technologies and bilingual proficiency (EN/PT). Passionate about innovation and problem-solving, I thrive in dynamic environments where I can apply my skills to create impactful solutions.
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/084/154/945/original/shubhang-ara-gengar.gif?1737660363" alt="Image-Background"> 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dh28uuh-2afd5ded-7cd7-4b17-a3ef-d3fa0ab6c364.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGgyOHV1aC0yYWZkNWRlZC03Y2Q3LTRiMTctYTNlZi1kM2ZhMGFiNmMzNjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KcD12Cuh1QXyaKhLEpfLv5UDPbHQY_j889dCZPKHP0o" alt="Image-Background"> 
 
 ## 🚀 Hard Skills
 - **Programming Languages:** Python, Java, JavaScript, C++
