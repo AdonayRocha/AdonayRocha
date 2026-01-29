@@ -39,5 +39,5 @@ I have been honing my skills in **Java, SQL, Python, React.js, Node.js, TypeScri
   <a href="https://github.com/adonayrocha/github-readme-stats&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdonayRocha&layout=compact" alt="Top Langs"/>
   </a>
-  <img src="https://i.redd.it/8p9qs12llduf1.gif" alt="gif" style="width: 120px; height: 30px; margin-left: 12px;"/>
+  <img src="https://i.redd.it/8p9qs12llduf1.gif" alt="gif" style="width: 500px; height: 400px; margin-left: 12px;"/>
 </div>
