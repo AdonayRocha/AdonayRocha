@@ -21,11 +21,27 @@ Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in mo
   - Scrum Fundamentals Certified (SFC)
 
 ## 💼 Professional Experience
-- **HDI Seguros** - ServiceNow Developer
-  - Developed and customized ServiceNow applications to streamline IT service management processes.
-  - Collaborated with cross-functional teams to implement ITIL best practices.
-  - Enhanced system performance and user experience through innovative solutions.
 
+- **Junior Software Developer**  
+  Conquest One (client: Grupo HDI) · São Paulo, Brazil  
+  Responsible for supporting and evolving Oracle Cloud Fusion in Procurement, Expenses, and Accounts Payable modules.  
+  - Functional ERP management and support for the finance team  
+  - PCI DSS integration, security, and compliance improvements  
+  - Process automation with Python, reducing manual tasks  
+  - Maintenance of legacy systems (SQL Server) and integrations in Java and JavaScript  
+  - DocuSign access management and reporting  
+
+- **ServiceNow Developer (Apprentice)**  
+  Grupo HDI · São Paulo, Brazil  
+  ServiceNow platform customization and support for IT Governance.  
+  - Workflow automation, SLAs, and technical documentation  
+  - User management and Aloweb platform administration  
+
+- **B2B Automation & Data Science Consultant**  
+  Self-employed · São Paulo, Brazil  
+  Provides custom automation and data analysis solutions for business clients, using Python and data science.  
+  - Automates systems, integrates platforms, and creates dashboards  
+  - Develops predictive models and business reports  
 
 ## 🛠️ Technical Proficiencies
 I have been honing my skills in **Java, SQL, Python, React.js, Node.js, TypeScript, and ServiceNow**, with a strong focus on **Information Technology Service Management (ITSM)**. My goal is to leverage these skills to build scalable, efficient, and user-friendly applications.
