@@ -1,7 +1,7 @@
 # Hi friend 👋 <br>
 Let's connect? I'm **Adonay Rocha**, a Full Stack Developer with expertise in modern technologies and bilingual proficiency (EN/PT). Passionate about innovation and problem-solving, I thrive in dynamic environments where I can apply my skills to create impactful solutions.
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Image-Background"> 
+<img src="https://i.pinimg.com/originals/54/a2/48/54a248b467528314be61ee152859295f.gif" alt="Image-Background"> 
 
 ## 🚀 Hard Skills
 - **Programming Languages:** Python, Java, JavaScript, C++
